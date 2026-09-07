@@ -14,7 +14,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "repo": "https://github.com/symb-int/omos"
+        "url": "https://github.com/symb-int/omos.git"
       }
     }
   ]
