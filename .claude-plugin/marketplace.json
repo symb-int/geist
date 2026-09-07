@@ -13,7 +13,7 @@
       "description": "An operational model of self for agentic ai.",
       "category": "productivity",
       "source": {
-        "source": "github",
+        "source": "url",
         "repo": "https://github.com/symb-int/omos"
       }
     }
