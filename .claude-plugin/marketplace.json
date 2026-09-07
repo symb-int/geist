@@ -1,0 +1,21 @@
+{
+  "name": "geist",
+  "description": "A marketplace for agentic meta-cognition tooling.",
+  "owner": {
+    "name": "Raphael Feikert",
+    "email": "r.feikert@symbolic-intelligence.de",
+    "url": "https://symbolic-intelligence.de"
+  },
+  "plugins": [
+    {
+      "name": "omos",
+      "displayName": "omos",
+      "description": "An operational model of self for agentic ai.",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "symb-int/omos"
+      }
+    }
+  ]
+}
